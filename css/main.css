@@ -19,7 +19,9 @@
 a {
   text-decoration: none;
 }
-
+.hire__me a{
+  color: white;
+}
 body {
   font-family: "Poppins", sans-serif;
   background-color: var(--extra-light);
